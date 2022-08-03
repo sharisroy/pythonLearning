@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19043011-a19b-47c9-a690-416184878d4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5.2 Example of Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.1 Example of Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.1 Example of Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.2 Example of Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.1 Example of Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8.2 Example of Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10. Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 import Module file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Regular expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.1 Find and Replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.3 zipFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.4 Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Class and Object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.1 ClassAndObjectWithFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.2 Constractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.3 Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.4 Method Overriding or Supper Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyMath.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. TakingInputFromUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. TakingInputFromUser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConditionalStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. ConditionalStatement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +50,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.6.1 Example of Conditions">
-    <configuration name="5.2 Example of Range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.12.1 Find and Replace">
+    <configuration name="10. Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.2 Example of Range.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Polymorphism.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.1 Example of Conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11 import Module file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.1 Example of Conditions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 import Module file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7.1 Example of Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. Regular expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.1 Example of Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12. Regular expressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8. Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12.1 Find and Replace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.1 Find and Replace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8.1 Example of Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyMath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.1 Example of Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyMath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.1 Example of Conditions" />
-        <item itemvalue="Python.5.2 Example of Range" />
-        <item itemvalue="Python.7.1 Example of Dictionary" />
-        <item itemvalue="Python.8.1 Example of Functions" />
-        <item itemvalue="Python.8. Functions" />
+        <item itemvalue="Python.12.1 Find and Replace" />
+        <item itemvalue="Python.12. Regular expressions" />
+        <item itemvalue="Python.11 import Module file" />
+        <item itemvalue="Python.MyMath" />
+        <item itemvalue="Python.10. Polymorphism" />
       </list>
     </recent_temporary>
   </component>
